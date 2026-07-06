@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my firstb git repository
+This is my first git repository
+author - Khushi Gupta
